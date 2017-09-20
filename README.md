@@ -2,7 +2,13 @@
 
 This is an example of https://github.com/gobuffalo/packr/issues/11
 
-to reproduce, first the common case, which works:
+First get this code:
+
+```
+go get -d github.com/natefinch/markbates
+```
+
+To reproduce, first the common case, which works:
 
 from $GOPATH/src/github.com/natefinch/markbates 
 
